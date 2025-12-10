@@ -1,0 +1,22 @@
+.box{
+     background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  border-radius: 0.5em;
+  padding: 2em 3em;
+  width: 25em;
+  color: #2d3436;
+  backdrop-filter: blur(0.5em);
+  margin-top: 3em;
+}
+.info{
+    list-style: none;
+}
+.info li{
+    margin: 0.5em;
+    text-align: center;
+    font-size: 2em;
+}
+.Bsection{
+    display: flex;
+    justify-content: center;
+}

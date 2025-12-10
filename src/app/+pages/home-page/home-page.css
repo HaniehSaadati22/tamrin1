@@ -1,0 +1,14 @@
+.Bsection{
+    display: flex;
+    justify-content: center;
+}
+.box{
+  background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+border-radius: 1em;
+padding: 2em;
+width: 17em;
+color: black;
+backdrop-filter: Blur(0.5em);
+margin-top: 4em;
+}

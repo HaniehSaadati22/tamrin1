@@ -1,0 +1,30 @@
+nav{
+ display:flex;
+ background-color: rgb(110, 206, 230);
+ padding: 0.5em 1.2em;
+}
+nav a{
+    text-decoration: none;
+    background-color: rgb(246, 185, 232);
+    color: black;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    font-size: 1em;
+    margin: 0.6em 0.5em;
+
+}
+nav a:hover{
+    background-color: rgb(213, 18, 90);
+    color: azure;
+}
+.vavbar{
+    background-color: beige;
+    backdrop-filter: blur(1em);
+    padding: 0.5em;
+    border-radius: 1.0em;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 0.5em;
+}
